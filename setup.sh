@@ -21,7 +21,7 @@ clean_files ()
 {
     rm -f log
     rm -f config
-    rm -rf Downloads
+    rm Downloads/*
 }
 
 setup_res main
